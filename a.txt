@@ -2,3 +2,5 @@ Arquivo teste 1.1
 testando 1.1.1
 Testando 1.2.1
 Testando 1.2.2
+
+Nova versão teste 2.0 na branch main
